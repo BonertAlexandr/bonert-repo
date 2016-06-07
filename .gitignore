@@ -1,0 +1,8 @@
+# eclipse project files
+.project
+
+# ignore folder
+.settings/
+
+# generated files
+bin/
