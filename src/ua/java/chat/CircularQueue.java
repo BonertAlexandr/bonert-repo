@@ -1,3 +1,7 @@
+/*
+	This class uses for storing history of message
+*/
+
 package ua.java.chat;
 
 import java.util.Collection;
